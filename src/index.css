@@ -1,0 +1,29 @@
+:root {
+    --purple: rgb(104, 61, 199);
+}
+
+*,
+:before,
+:after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma, monospace;
+    font-size: 11px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+b,
+strong {
+    font-weight: bolder;
+}
+
+a {
+    background-color: transparent;
+}

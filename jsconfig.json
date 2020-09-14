@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "shared/*": ["./shared/*"],
+      "pages/*": ["./pages/*"]
+    }
+  },
+  "exclude": [
+    "./build",
+    "./node_modules"
+  ]
+}
+
